@@ -45,8 +45,10 @@
  </p> <h3 align="left">
  
  Languages and Tools:
-<a href="https://www.linkedin.com/in/AlinaNaz05"/><img src="https://raw.githubusercontent.com/Python/awesome-Pyth/main/logo.svg" height=30 width=55></img></a> 
-[![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+
+ 
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/Python-EE4C2C?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
 [![](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
 [![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;

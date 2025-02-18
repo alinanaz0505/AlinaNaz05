@@ -40,17 +40,12 @@
 
 
  
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/owaiskhan9654?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
-   
-   
-- Disclamer - Above total stars are aggregated sum of big repositories I have contributed to ✌️✊. Click on it to get more info about the source.
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=prs)
 
  </p> <h3 align="left">
  
  Languages and Tools:
- 
-[![](https://img.shields.io/badge/Markdown-494d4c?style=for-the-badge&logo=markdown&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+<a href="https://www.linkedin.com/in/AlinaNaz05"/><img src="https://raw.githubusercontent.com/Python/awesome-Pyth/main/logo.svg" height=30 width=55></img></a> 
 [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
 [![](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
 [![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;

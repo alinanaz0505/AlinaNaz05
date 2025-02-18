@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C792E9&random=true&width=900&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi+there!+%F0%9F%91%8B+I'm+Alina+;AI+Engineer+|M.Tech+|Artificial+Intelligence+from+NIT+Jalandhar.;Currently+working+as+an+AI+Engineer+at+C-DAC!+;%F0%9F%9A%80+Let's+team+up+for+some+creative+content+collaborations.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C792E9&random=true&width=900&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi+there!+%F0%9F%91%8B+I'm+Alina+;AI+Engineer+|M.Tech+|Artificial+Intelligence+from+NIT+Jalandhar.;Currently+working+as+an+AI+Engineer+at+C-DAC!+;%F0%9F%9A%80+Let's+connect+for+Collabaration+on+Endeavor.)](https://git.io/typing-svg)
 <div style="display: flex; flex-direction: column;">
   <div style="flex: 1; margin-right: 10px;">
     <ul style="list-style-type: none; padding: 0;">

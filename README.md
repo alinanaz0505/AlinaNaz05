@@ -14,8 +14,10 @@
 # Analytics ⚙️
 
 
- 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=prs,issues,stars)
+
+
+
 
 
  </p> <h3 align="left">

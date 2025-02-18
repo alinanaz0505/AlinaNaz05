@@ -2,9 +2,9 @@
 <div style="display: flex; flex-direction: column;">
   <div style="flex: 1; margin-right: 10px;">
     <ul style="list-style-type: none; padding: 0;">
-      <li>Hi 👋 I'm <b>Alina</b>, a seasoned AI Engineer expert with an M.Tech in Artificial Intelligence from NITJ⚡⚡.</li>
-      <li> Currently working as an AI Engineer at C-DAC! 🚀 Let's connect for collaboration on Endeavor.</li>
-      <li>I love learning & Deep dive into cutting Edge technology and sharing knowledge! 📈</li>
+      <li>Hi 👋 I'm <b>Alina</b>, AI Engineer expert with an M.Tech in Artificial Intelligence from NITJ⚡⚡.</li>
+      <li> Currently working as an AI Engineer at C-DAC! 🚀 Let's connect for collaboration on Endeavor🤝.</li>
+      <li>I love learning & deep dive into cutting edge technology and sharing knowledge! 📈</li>
     </ul>
   </div>
 </div>
